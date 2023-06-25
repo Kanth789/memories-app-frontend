@@ -1,0 +1,1 @@
+export const logoNavBar = 'https://i.ibb.co/4VjFkZH/pexels-tiana-3312242.jpg'
