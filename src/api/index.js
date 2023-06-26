@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url = process.env.BASEURL
+const url = "https://memories-app-backend-87ph.onrender.com"
 const API = axios.create({baseURL:url})
 
 API.interceptors.request.use((req)=>{
